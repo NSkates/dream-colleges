@@ -1,0 +1,160 @@
+.top {
+	float:center; 
+	margin:15px; 
+	padding:10px; 
+	text-align:center; 
+	text-indent:3%;
+}
+
+
+
+
+
+.container{
+	position:absolute; 
+	left:21.3%; 
+	top:17.4%;
+}
+
+
+
+
+
+.about {
+	background-color:#FFB333; 
+	float:center; 
+	margin:15px; 
+	
+border:5px solid lightgreen;
+ 
+	padding:10px; 
+	width:75%; 
+	height:auto;
+	text-align:center; 
+}
+
+
+
+
+
+.wants {
+	background-color:#FFB333; 
+	float:center; 
+	margin:15px; 
+	
+border:5px solid lightgreen;
+ 
+	padding:10px; 
+	width:75%; 
+	height:auto; 
+	text-align:center; 
+	
+list-align:center; 
+}
+
+
+
+
+
+p {text-indent:5%; font-family: palatino linotype;
+}
+
+
+
+
+
+.menu {
+	float:left;
+	background-color:#FFB333;
+ 
+	
+margin:10px; 
+	border:5px solid lightgreen; 
+	padding:10px; 
+	width:17%; 
+	height:49%;
+ 
+	
+text-align:center; 
+	top:18%; 
+	left:0px; 
+	position:absolute; 
+    
+}
+
+ol { 
+	display: inline-block; 
+	text-align: left; 
+font-family: palatino linotype;	}
+
+.developer{
+	margin:15px; 
+	border:5px solid lightgreen; 
+	padding:10px; 
+
+	width:30%; 
+	height:100%;
+
+	float:left;
+    background-color:#FFB333;
+}
+
+#dev {
+	height:200px; 
+	width:200px; 	
+	
+border: 5px solid black;
+	
+margin: 10px;
+	border-image: url(border.png) 30 round; 
+	
+border-radius:25px;
+}
+
+.imagetext{
+	float:left;
+}
+
+#one {
+	text-align:center; 
+	float:center; 
+	font-size:2em;
+}
+
+.welcome {
+	height:300px; 
+	width:300px; 
+	position:relative; 
+}
+
+.menusettings {
+	font-size:2em;
+}
+
+body {background-color:#F3FF33; font-family:verdana;
+}
+
+hr{border-top: 3px dashed #33CEFF;
+}
+
+.menuline {border: 1px solid black;
+}
+
+table {colspan: two;  border-collapse: collapse; text-align:center;
+border: 1px solid black;
+ float: right; font-family: palatino linotype;
+}
+
+tr:hover {background-color: #F3FF33;}
+
+#ccbc {width: 38%; 
+}
+
+#towsonlogotop {width: 20%;
+}
+
+#umbclogotop {width: 15%;
+{
+
+#umbcpic {height: 10%; float: center;
+}
